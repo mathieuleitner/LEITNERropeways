@@ -1,11 +1,9 @@
-body {padding-top: 10em;}
+html{height:100%}
+body {padding-top: 10em;
+	height: 100%}
 .systemes{padding-top: 4em;}
 .row{padding-top: 4em;}
 .jumbotron{background: url(assets/images/jumbotron.jpeg);}
 .containermain{padding-bottom: 10em;}
 .breadcrumb {margin-bottom: 0px;}
-footer{
-	position: absolute; 
-	width:100%; 
-	bottom:0;
-}
+.taillemin{min-height: calc(100% - 3em);}
